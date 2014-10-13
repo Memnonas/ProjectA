@@ -1,0 +1,3 @@
+ Correct 1-bit predictions of total predictions 22/49 
+ Correcct 2-bit predictions of total predictions 5/49 
+ Number of loops:0

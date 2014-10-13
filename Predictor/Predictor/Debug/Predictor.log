@@ -1,0 +1,22 @@
+﻿Build started 10/12/2014 11:06:49 PM.
+     1>Project "C:\Users\Memnonas\Desktop\University\3o etos\arxitektoniki Lab\Project\Predictor\Predictor\Predictor.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TC /analyze- /errorReport:prompt Source2.c
+         Source2.c
+     1>c:\users\memnonas\desktop\university\3o etos\arxitektoniki lab\project\predictor\predictor\source2.c(9): warning C4028: formal parameter 1 different from declaration
+     1>c:\users\memnonas\desktop\university\3o etos\arxitektoniki lab\project\predictor\predictor\source2.c(9): warning C4028: formal parameter 2 different from declaration
+     1>c:\users\memnonas\desktop\university\3o etos\arxitektoniki lab\project\predictor\predictor\source2.c(65): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\memnonas\desktop\university\3o etos\arxitektoniki lab\project\predictor\predictor\source2.c(66): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files (x86)\microsoft visual studio 11.0\vc\include\stdio.h(218) : see declaration of 'fopen'
+     1>c:\users\memnonas\desktop\university\3o etos\arxitektoniki lab\project\predictor\predictor\source2.c(200): warning C4013: 'system' undefined; assuming extern returning int
+     1>c:\users\memnonas\desktop\university\3o etos\arxitektoniki lab\project\predictor\predictor\source2.c(41): warning C4101: 'i' : unreferenced local variable
+     1>c:\users\memnonas\desktop\university\3o etos\arxitektoniki lab\project\predictor\predictor\source2.c(47): warning C4101: 'Arr3' : unreferenced local variable
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Memnonas\Desktop\University\3o etos\arxitektoniki Lab\Project\Predictor\Debug\Predictor.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Memnonas\Desktop\University\3o etos\arxitektoniki Lab\Project\Predictor\Debug\Predictor.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Memnonas\Desktop\University\3o etos\arxitektoniki Lab\Project\Predictor\Debug\Predictor.lib" /MACHINE:X86 Debug\Source2.obj
+         Predictor.vcxproj -> C:\Users\Memnonas\Desktop\University\3o etos\arxitektoniki Lab\Project\Predictor\Debug\Predictor.exe
+     1>Done Building Project "C:\Users\Memnonas\Desktop\University\3o etos\arxitektoniki Lab\Project\Predictor\Predictor\Predictor.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.46
