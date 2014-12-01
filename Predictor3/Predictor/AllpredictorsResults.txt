@@ -1,0 +1,7 @@
+Correct predictions of 1-bit out of total: 79711/179297
+
+Correct predictions of 2-bit out of total: 61896/179297
+
+Correct predictions of 1.1 Correlate predictor  out of total: 61896/179297
+
+Hits from tournament 79712    

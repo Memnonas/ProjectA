@@ -1,0 +1,1 @@
+Correct predictions of 2-bit out of total: 61896/179297
